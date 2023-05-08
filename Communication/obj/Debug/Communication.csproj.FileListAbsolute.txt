@@ -1,0 +1,8 @@
+C:\Users\Marat\Desktop\Evg\Communication\Communication\bin\Debug\Communication.exe.config
+C:\Users\Marat\Desktop\Evg\Communication\Communication\bin\Debug\Communication.exe
+C:\Users\Marat\Desktop\Evg\Communication\Communication\bin\Debug\Communication.pdb
+C:\Users\Marat\Desktop\Evg\Communication\Communication\obj\Debug\Communication.csproj.AssemblyReference.cache
+C:\Users\Marat\Desktop\Evg\Communication\Communication\obj\Debug\Communication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marat\Desktop\Evg\Communication\Communication\obj\Debug\Communication.csproj.CoreCompileInputs.cache
+C:\Users\Marat\Desktop\Evg\Communication\Communication\obj\Debug\Communication.exe
+C:\Users\Marat\Desktop\Evg\Communication\Communication\obj\Debug\Communication.pdb
